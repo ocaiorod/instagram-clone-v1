@@ -510,3 +510,117 @@ footer #footer-links {
     }
 } 
 
+
+
+
+/* HOME INSTAGRAM */
+#navbar {
+    width: 320px;
+    height: 790px;
+    background-color: #FFF;
+    border-right: 1px solid #DDD;
+}
+
+ #navbar-inner ul {
+    list-style: none;
+} 
+
+#navbar-inner a {
+    text-decoration: none;
+    color: #0a0a0a;
+}
+
+#navbar-inner li {
+    display: flex;
+    margin-bottom: 10px;
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#navbar-inner li:hover {
+    cursor: pointer;
+    transition: 0.4s;
+    background-color: #DBDBDB;
+}
+
+#navbar-inner {
+    padding: .7rem;
+    background-color: #ffffff;
+}
+
+#navbar-inner form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#navbar-inner input {
+    padding: 1rem 1rem;
+    border: 1px solid #DDD;
+}
+
+
+
+
+
+ #navbar-inner-2 ul {
+    list-style: none;
+} 
+
+#navbar-inner-2 a {
+    text-decoration: none;
+    color: #0a0a0a;
+}
+
+#navbar-inner-2 li {
+    display: flex;
+    margin-bottom: 10px;
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#navbar-inner-2 li:hover {
+    cursor: pointer;
+    transition: 0.4s;
+    background-color: #DBDBDB;
+}
+
+#navbar-inner-2 {
+    margin-top: 160px;
+    padding: .7rem;
+    height: 150px;
+    background-color: #FFF;
+    border-right: 1px solid #DDD;
+}
+
+#navbar-inner-2 form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#navbar-inner-2 input {
+    padding: 1rem 1rem;
+    border: 1px solid #DDD;
+}
+
+.logo {
+    margin: 30px 0px 30px 10px;
+    width: 100px;
+
+}
+
+#nav-links img {
+    width: 25px;
+    margin: -5px 15px 0 0;
+}
+
+
+
+
+
+
